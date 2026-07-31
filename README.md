@@ -4,7 +4,7 @@
 
 ### DevOps & Platform Engineer
 
-Kubernetes · Multi-Cloud Infrastructure (AWS/Azure) · GitOps · Infrastructure as Code
+Girne, North Cyprus (Remote) · Kubernetes · AWS/Azure · GitOps · Infrastructure as Code
 
 [![Email](https://img.shields.io/badge/Email-rastinghasemi5%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rastinghasemi5@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/rastin-ghasemi-269879367)
@@ -13,9 +13,18 @@ Kubernetes · Multi-Cloud Infrastructure (AWS/Azure) · GitOps · Infrastructure
 
 ## About
 
-DevOps & Platform Engineer with 5+ years across Linux, Kubernetes, and multi-cloud infrastructure (AWS, Azure). Currently at **Bespokelabs.AI**, designing adversarial Kubernetes incident-response scenarios for AI agent evaluation — building on hands-on experience with ArgoCD GitOps, Istio, Prometheus/Grafana, Terraform/Pulumi, and policy-as-code cluster hardening (RBAC, NetworkPolicies, ValidatingAdmissionPolicies).
+DevOps & Platform Engineer with 5+ years across Linux, Kubernetes, and multi-cloud infrastructure (AWS, Azure). Currently at **Bespokelabs.AI**, designing adversarial Kubernetes incident-response scenarios for AI agent evaluation. Background spans production GitOps (ArgoCD), service mesh (Istio), observability (Prometheus/Grafana), IaC (Terraform/Pulumi), and policy-as-code cluster hardening (RBAC, NetworkPolicies, ValidatingAdmissionPolicies) — all backed by a public portfolio of working, documented deployments below.
 
-Every project below is a working, documented deployment, not a tutorial clone.
+## Experience
+
+**DevOps Engineer — Bespokelabs.AI** · *Mar 2026 – Present, Remote*
+Designed 12 hard-difficulty Kubernetes incident-response tasks for an AI agent benchmarking platform (Istio mTLS, MinIO, RabbitMQ, Keycloak SSO, MongoDB replica sets). Achieved a perfect 1.0 solution score on the ephemeral-environments task and authored grader automation in Python/Bash. Hardened sandboxes against reward hacking via scoped RBAC and ValidatingAdmissionPolicies.
+
+**DevOps Engineer — Narvanestan** · *Nov 2023 – Jun 2024*
+Ran 3 Kubernetes clusters (12 nodes) with zero-downtime deployments for ~15 microservices. Cut GitLab CI job runtime ~40% through Docker image caching and layer optimization. Deployed Prometheus/Grafana monitoring, reducing MTTD from hours to minutes at 99.9% uptime.
+
+**Linux System & Network Administrator — Parspooyesh Fanavar** · *Aug 2019 – Oct 2023*
+Maintained 40+ Linux servers and 20+ PostgreSQL/MongoDB clusters for enterprise clients. Secured infrastructure with iptables and MikroTik VPNs, and automated routine administration with Bash.
 
 ## Tech Stack
 
@@ -67,7 +76,3 @@ Every project below is a working, documented deployment, not a tutorial clone.
 ## Certifications
 
 AWS Solutions Architect – Associate · LPIC-2 · LPIC-1 · CCNP R&S · CCNA · Network+
-
-## Contact
-
-📍 Girne, North Cyprus &nbsp;·&nbsp; ✉️ [rastinghasemi5@gmail.com](mailto:rastinghasemi5@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rastin-ghasemi-269879367)
